@@ -1,3 +1,1 @@
 # Gitチュートリアル
-
-- feature-A
