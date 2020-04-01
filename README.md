@@ -4,4 +4,4 @@
 
 - fix-B
 
-- faeture-C
+- feature-C
